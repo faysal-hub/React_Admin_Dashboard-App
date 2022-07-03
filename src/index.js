@@ -6,7 +6,7 @@ import { registerLicense } from '@syncfusion/ej2-base';
 
 // Registering Syncfusion license key
 registerLicense(
-  'ORg4AjUWIQA/Gnt2VVhhQlFac1pJXGFWfVJpTGpQdk5xdV9DaVZUTWY/P1ZhSXxRdkNhX35ddHNRQWRZWEw='
+  'ORg4AjUWIQA/Gnt2VVhiQlFadVlJXGFWfVJpTGpQdk5xdV9DaVZUTWY/P1ZhSXxRdkJjWH9XcXdUQmVUUkM='
 );
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
