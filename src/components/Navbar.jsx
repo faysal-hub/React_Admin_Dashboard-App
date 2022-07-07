@@ -37,6 +37,28 @@ const Navbar = () => {
         icon={<AiOutlineMenu />}
         color="blue"
       />
+      <div className="flex">
+        <NavButton
+          title="Cart"
+          // customFunc={() => handleClick('cart')}
+          color="blue"
+          icon={<FiShoppingCart />}
+        />
+        <NavButton
+          title="Chat"
+          dotColor="#03C9D7"
+          // customFunc={() => handleClick('chat')}
+          color="blue"
+          icon={<BsChatLeft />}
+        />
+        <NavButton
+          title="Notification"
+          dotColor="rgb(254, 201, 15)"
+          // customFunc={() => handleClick('notification')}
+          color="blue"
+          icon={<RiNotification3Line />}
+        />
+      </div>
     </div>
   );
 };
