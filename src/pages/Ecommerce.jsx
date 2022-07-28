@@ -85,7 +85,7 @@ const Ecommerce = () => {
             </div>
           </div>
           <div className="mt-10 flex gap-10 flex-wrap justify-center">
-            <div className="boarder-r-1 border-color m-4 pr-10">
+            <div className="border-r-1 border-color m-4 pr-10">
               <div>
                 <p>
                   <span className="text-3xl">$93,438</span>
@@ -93,7 +93,7 @@ const Ecommerce = () => {
                     23%
                   </span>
                 </p>
-                <p className="text-gray-500 mt-1">Expense</p>
+                <p className="text-gray-500 mt-1">Budget</p>
               </div>
               <div className="mt-8">
                 <p>
