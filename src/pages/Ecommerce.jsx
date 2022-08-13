@@ -382,7 +382,9 @@ const Ecommerce = () => {
           <div className="mt-10">
             <img className="md:w-96 h-50 " src={product9} alt="" />
             <div className="mt-8">
-              <p className="font-semibold text-lg">React 18 coming soon!</p>
+              <p className="font-semibold text-lg">
+                React 18 Already Released!
+              </p>
               <p className="text-gray-400 ">By Johnathan Doe</p>
               <p className="mt-8 text-sm text-gray-400">
                 This will be the small description for the news you have shown
