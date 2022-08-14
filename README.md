@@ -1,13 +1,13 @@
 # Build and Deploy a React Admin Dashboard App With multiple Theming, Tables, Charts, Calendar, Kanban and More
 
-# Live Link: [https://faysal-reactdashboard.netlify.app/](https://faysal-reactdashboard.netlify.app).
+# Live Link: [https://faysal-reactdashboard.netlify.app/](https://faysal-reactdashboard.netlify.app)
 
-![A React JS Admin Dashboard](https://drive.google.com/file/d/1m42RySMPZ_MATK0-5BBB1583I0uDuTS-/view?usp=sharing 'A React JS Admin Dashboard')
+![A React JS Admin Dashboard](public/screenshots/01.png 'A React JS Admin Dashboard')
 
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/faysal-hub 'Ask Me Anything!')
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/faysal-hub/React_Admin_Dashboard-App/commits/master 'Maintenance')
 [![GitHub branches](https://badgen.net/github/branches/faysal-hub/React_Admin_Dashboard-App/)](https://github.com/faysal-hub/React_Admin_Dashboard-App/branches 'GitHub branches')
-[![Github commits](https://github.com/faysal-hub/React_Admin_Dashboard-App/commits)](https://github.com/faysal-hub/React_Admin_Dashboard-App/commits 'Github commits')
+[![Github commits](https://badgen.net/github/commits/faysal-hub/React_Admin_Dashboard-App/master)](https://github.com/faysal-hub/React_Admin_Dashboard-App/commits 'Github commits')
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6aeb1ab3-871d-48c0-bc09-2e1fcaef0c2b/deploy-status)](https://faysal-reactdashboard.netlify.app/ 'Netlify Status')
 [![GitHub issues](https://img.shields.io/github/issues/faysal-hub/React_Admin_Dashboard-App)](https://github.com/faysal-hub/React_Admin_Dashboard-App/issues 'GitHub issues')
 
@@ -53,9 +53,9 @@
 
 ## :camera: Screenshots:
 
-![Light Mode](https://drive.google.com/file/d/110QkpwMsySPk3Yh7LeQLOeEjvhA_OEAw/view?usp=sharing 'Light Mode')
+![Light Mode](public/screenshots/03.png)
 
-![Multiple theme colors](https://drive.google.com/file/d/18VsG2fnCAcW6IjNh_KtKNq_15a8Qq9k6/view?usp=sharing 'Multiple theme colors')
+![Multiple theme colors](public/screenshots/02.png)
 
 ## 📃 Built with
 
